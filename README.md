@@ -2,7 +2,7 @@
 
 Project generates webpages containing JSON files as body
 
-##URL
+## URL
 
 Folgende Dateien sind jeweils unter folgenden URLs erreichbar  
 https://sischall.github.io/data.json: kleine Datei für Testzwecke  
