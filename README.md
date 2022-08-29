@@ -7,7 +7,7 @@ Project generates webpages containing JSON files as body
 Folgende Dateien sind jeweils unter folgenden URLs erreichbar  
 https://sischall.github.io/data.json: kleine Datei für Testzwecke  
 https://sischall.github.io/9mb.json: Datei mit 9mb JSON Payload  
-https://sischall.github.io/18mb.json: Datei mit 18mb JSON Payload
+https://sischall.github.io/18mb.json: Datei mit 18mb JSON Payload  
 https://sischall.github.io/36mb.json: Datei mit 36mb JSON Payload
 
 ## Generating a new JSON file
