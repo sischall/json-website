@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILENAME=9mbchangeUUID.json
+FILENAME=18mbchangeUUID.json
 
 #get the lengt of the list
 size=$(jq '. | length' $FILENAME)
