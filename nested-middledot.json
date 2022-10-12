@@ -1,0 +1,12 @@
+{
+  "id": "dae89771-9e28-4186-a903-45fe7e715722",
+  "timestamp": "2020-08-10T14:43:44Z",
+  "intValue": 42,
+  "string·Value": "Don't Panic.",
+  "booleanValue": true,
+  "nested·dot": {
+    "child1dotkey": "child1dotvalue",
+    "child2·key": "child2·value"
+  },
+  "nullValue": null
+}

@@ -9,7 +9,9 @@ https://wrinklenose.github.io/data.json: kleine Datei für Testzwecke
 https://wrinklenose.github.io/9mb.json: Datei mit 9mb JSON Payload  
 https://wrinklenose.github.io/18mb.json: Datei mit 18mb JSON Payload  
 https://wrinklenose.github.io/36mb.json: Datei mit 36mb JSON Payload  
-https://wrinklenose.github.io/middledot.json: Datei "Mittelpunkt" JSON Payload
+https://wrinklenose.github.io/middledot.json: Datei "Mittelpunkt" JSON Payload  
+https://wrinklenose.github.io/nested-middledot.json: Datei "Mittelpunkt" nested-JSON Payload
+
 
 ## Generating a new JSON file
 The JSON files have the special structure, that they are one big list of Objects. This allows us to double the size of a JSON file as followed:  
