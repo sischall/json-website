@@ -1,0 +1,20 @@
+{
+        "obj·ect.int·int": 42,
+        "obj_ect.int": 42,
+        "timestamp": "2021-01-01T15:00:00Z",
+        "id": 1,
+        "obj_ect.float": 42.23,
+        "obj·ect.float·float": 42.23,
+        "obj·ect.int_int": 42,
+        "null·Value": null,
+        "obj·ect.int": 42,
+        "objArray[0].sub_stringNewline": "Don't\nPanic.",
+        "obj_ect.float_float": 42.23,
+        "obj·ect.float": 42.23,
+        "obj_ect.int_int": 42,
+        "null_Value": null,
+        "objArray[0].sub·stringValue": "Don't Panic.",
+        "obj·ect.float_float": 42.23,
+        "obj_ect.float·float": 42.23,
+        "obj_ect.int·int": 42
+}
