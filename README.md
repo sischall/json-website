@@ -8,7 +8,7 @@ Folgende Dateien sind jeweils unter folgenden URLs erreichbar
 https://wrinklenose.github.io/data.json: kleine Datei für Testzwecke  
 https://wrinklenose.github.io/9mb.json: Datei mit 9mb JSON Payload  
 https://wrinklenose.github.io/18mb.json: Datei mit 18mb JSON Payload  
-https://wrinklenose.github.io/36mb.json: Datei mit 36mb JSON Payload
+https://wrinklenose.github.io/36mb.json: Datei mit 36mb JSON Payload  
 https://wrinklenose.github.io/middledot.json: Datei "Mittelpunkt" JSON Payload
 
 ## Generating a new JSON file
